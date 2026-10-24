@@ -1,0 +1,109 @@
+# handle	cn_name	type_id  (1环球旅行 2城市探索 3户外冒险 4文化体验 5穷游背包 6奢华度假)
+#
+# ═══════════════════════════════════════════════════
+# ① 环球旅行
+# ═══════════════════════════════════════════════════
+@DrewBinsky	Drew Binsky	1
+@NasDaily	Nas Daily	1
+@YesFury	Yes Theory	1
+@MarkWiens	Mark Wiens	1
+@KaraAndNate	Kara and Nate	1
+@LostLeBlanc	Lost LeBlanc	1
+@FunForLouis	FunForLouis	1
+@TheTimTraveller	Tim Traveller	1
+@ItchyBootsTravel	Itchy Boots	1
+@gabriellatravels	Gabriella Travels	1
+@EvaZubeck	Eva zu Beck	1
+@SimonWilson	Simon Wilson	1
+@NomadCapitalist	Nomad Capitalist	1
+@TravelingRobert	Traveling Robert	1
+@IAmLucyTravels	I Am Lucy	1
+@AttractionsTV	Attractions Magazine	1
+@IndieFlyer	Indie Traveller	1
+@HopscotchTheGlobe	Hopscotch the Globe	1
+#
+# ═══════════════════════════════════════════════════
+# ② 城市探索
+# ═══════════════════════════════════════════════════
+@paolofromtokyo	Paolo from Tokyo	2
+@CasuallyExplained	Casually Explained	2
+@JetLag	Jet Lag The Game	2
+@GeographyNow	Geography Now	2
+@LivingBobby	Living Bobby	2
+@RealLifeLore	RealLifeLore	2
+@WoltersWorld	Wolters World	2
+@HonestGuide	Honest Guide	2
+@NotEvenFrench	Not Even French	2
+@seanbrownlees	Sean Brownlee	2
+@PadreJuanita	Padre Juanita	2
+@EaterVlog	Eater	2
+@LukeDamant	Luke Damant	2
+@ItsAGundam	Its A Gundam	2
+#
+# ═══════════════════════════════════════════════════
+# ③ 户外冒险
+# ═══════════════════════════════════════════════════
+@SurvivalRussia	Survival Russia	3
+@PrimitiveTechnology	Primitive Technology	3
+@DidYouKnow	Did You Know	3
+@TheOutsider	The Outsider	3
+@KentSurvival	Kent Survival	3
+@MrBallen	Mr. Ballen	3
+@JimsKitTV	Jim's Kit	3
+@BraveDave	Brave Dave	3
+@ProjectBlueSphere	The Blue Sphere	3
+@MarcellOzRover	Mr. Oz Rover	3
+@ErikSurf	Erik Surf	3
+@SurvivalLilly	Survival Lilly	3
+@CampingWithSteve	Camping With Steve	3
+@medicinegen	Medlife Crisis	3
+#
+# ═══════════════════════════════════════════════════
+# ④ 文化体验
+# ═══════════════════════════════════════════════════
+@PeterSantenello	Peter Santenello	4
+@AbroadinJapan	Abroad in Japan	4
+@KarlRock	Karl Rock	4
+@baldandbankrupt	Bald and Bankrupt	4
+@RickSteves	Rick Steves	4
+@TheTravelingClatt	The Traveling Clatt	4
+@VagaBrothers	Vaga Brothers	4
+@WendoverProductions	Wendover Productions	4
+@RealLifeLore	RealLifeLore	4
+@SerpentZA	SerpentZA	4
+@Xiaomanyc	Xiaomanyc	4
+@laowhy86	laowhy86	4
+@BlondieinChina	Blondie in China	4
+@LifeWhereImFrom	Life Where Im From	4
+@StrangerInChina	Stranger in China	4
+@PolymatterTravel	PolyMatter	4
+#
+# ═══════════════════════════════════════════════════
+# ⑤ 穷游背包
+# ═══════════════════════════════════════════════════
+@GabrielTraveler	Gabriel Traveler	5
+@fearlessandfar	Fearless and Far	5
+@MrBenBrown	Ben Brown	5
+@SabbaticalTommy	Sabbatical Tommy	5
+@BackpackerSteve	Backpacker Steve	5
+@DarrenAndMike	Darren and Mike	5
+@TravelTomTom	Travel Tom Tom	5
+@SkipperGuide	Skipper Guide	5
+@ProjectAtticus	Project Atticus	5
+@BackpackBen	Backpack Ben	5
+@TheTimelessWanderer	Timeless Wanderer	5
+@DanFlyingSolo	Dan Flying Solo	5
+#
+# ═══════════════════════════════════════════════════
+# ⑥ 奢华度假
+# ═══════════════════════════════════════════════════
+@NicolaButler	Nicola Butler	6
+@LuxuryTravel	Luxury Travel Expert	6
+@SamChui	Sam Chui	6
+@DjLu	DJ's Aviation	6
+@JoshCalderon	Josh Cahill	6
+@ThePointsGuy	The Points Guy	6
+@MentourPilot	Mentour Pilot	6
+@NickPlosk	Noel Philips	6
+@LuxuryLaunchpad	Luxury Launchpad	6
+@TrekTrendy	Trek Trendy	6
